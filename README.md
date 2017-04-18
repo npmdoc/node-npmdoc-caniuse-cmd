@@ -1,9 +1,14 @@
-# api documentation for  [caniuse-cmd (v1.3.1)](https://github.com/sgentle/caniuse-cmd)  [![npm package](https://img.shields.io/npm/v/npmdoc-caniuse-cmd.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-caniuse-cmd) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-caniuse-cmd.svg)](https://travis-ci.org/npmdoc/node-npmdoc-caniuse-cmd)
+# npmdoc-caniuse-cmd
+
+#### api documentation for  [caniuse-cmd (v1.3.1)](https://github.com/sgentle/caniuse-cmd)  [![npm package](https://img.shields.io/npm/v/npmdoc-caniuse-cmd.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-caniuse-cmd) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-caniuse-cmd.svg)](https://travis-ci.org/npmdoc/node-npmdoc-caniuse-cmd)
+
 #### caniuse for the command line
 
-[![NPM](https://nodei.co/npm/caniuse-cmd.png?downloads=true)](https://www.npmjs.com/package/caniuse-cmd)
+[![NPM](https://nodei.co/npm/caniuse-cmd.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/caniuse-cmd)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-caniuse-cmd/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-caniuse-cmd_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-caniuse-cmd/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-caniuse-cmd/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-caniuse-cmd/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-caniuse-cmd/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-caniuse-cmd/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-caniuse-cmd/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Sam Gentle",
-        "email": "sam@samgentle.com"
+        "name": "Sam Gentle"
     },
     "bin": {
         "caniuse": "./bin.js"
@@ -52,14 +56,12 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sgentle",
-            "email": "sam@samgentle.com"
+            "name": "sgentle"
         }
     ],
     "name": "caniuse-cmd",
     "optionalDependencies": {},
     "preferGlobal": true,
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/sgentle/caniuse-cmd.git"
@@ -70,16 +72,6 @@
     "version": "1.3.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module caniuse-cmd](#apidoc.module.caniuse-cmd)
-
-
-
-# <a name="apidoc.module.caniuse-cmd"></a>[module caniuse-cmd](#apidoc.module.caniuse-cmd)
 
 
 
